@@ -1,0 +1,18 @@
+{
+    "name": "ghcp-ex",
+    "version": "1.0.0",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "start": "node index.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "jkordick",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "@copilot-extensions/preview-sdk": "^5.0.1",
+      "@octokit/core": "^6.1.2",
+      "express": "^4.21.1"
+    }
+  } 
